@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey, I'm Philip Hunt
 
-<!--
-**PVEDA/PVEDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Systems & Infrastructure Specialist  
+💻 Linux, Networking, DevOps, and Automation  
+🎯 Passionate about resilient systems, clean code, and coffee-fueled uptime
 
-Here are some ideas to get you started:
+### 🔍 What I'm working on:
+- Personal DevOps lab (Ansible + Terraform)
+- Building ELK stack dashboards from real logs
+- Custom bash scripts for server automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack:
+Linux • Python • Bash • ELK Stack • Git • AWS (learning) • CentOS/Ubuntu • Networking • Dual Boot Environments • SEO/Web Dev (freelance)
+
