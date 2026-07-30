@@ -111,7 +111,7 @@ Cross-market monitoring integrating NYSE, B3, and European listings alongside co
 
 Reference interface mapping commodity tickers across major trading platforms.
 
-![](oil-reference.png)
+![](oil-reference.png.png)
 
 ---
 
