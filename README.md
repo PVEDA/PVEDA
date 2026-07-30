@@ -6,93 +6,112 @@ VEDA Trade Desk is an independent engineering project that I designed and develo
 
 Rather than functioning as a traditional trading application, the platform serves as a real-time analytics environment that combines multiple global data sources into a unified operational dashboard.
 
-The project was built through continuous iteration, experimentation, and validation, evolving from a simple dashboard into a modular software platform emphasizing systems engineering and operator-focused design.
+The platform combines financial market data, macroeconomic indicators, geopolitical events, and custom scoring models into a single operator interface designed to support rapid decision making under uncertainty.
+
+The project was built through continuous iteration, experimentation, and validation, evolving from a simple dashboard into a modular software platform emphasizing systems engineering, visualization, and operator-focused design.
 
 ---
 
-## Engineering Goals
+# Engineering Goals
 
-- Build a modular analytics platform
-- Design an intuitive operator interface
-- Integrate multiple independent data sources
+- Build a modular decision-support platform
+- Design an operator-first interface
+- Integrate multiple independent market signals
 - Develop adaptive scoring algorithms
-- Model changing operating conditions
+- Model changing market regimes
 - Improve decision making through visualization
 - Practice rapid software iteration
-- Validate models against real-world outcomes
+- Validate engineering assumptions through testing
 
 ---
 
-## Platform Features
+# Platform Features
 
 - Multi-market monitoring
-- Cross-market signal analysis
+- Cross-market correlation engine
+- Brent / WTI analytics
+- Petrobras (PBR) monitoring
+- Geopolitical event tracking
 - Adaptive regime detection
 - Weighted scoring engine
+- Interactive dashboards
 - Historical performance tracking
-- Interactive data visualization
-- Predictive probability models
-- Operator dashboards
-- Risk analysis
-- Event monitoring
+- Decision-support visualization
 - Modular React architecture
-- Dynamic UI components
+- Responsive mobile interface
 
 ---
 
-## Technologies
+# Technologies
 
 - React
 - JavaScript
+- JSX
 - Recharts
+- CSS
 - Data Visualization
 - Systems Engineering
-- UI/UX Design
-- Analytics
+- Predictive Analytics
 - Decision Modeling
 
 ---
 
-## Development Philosophy
+# Development Philosophy
 
 This project represents hundreds of hours of independent engineering work.
 
-Each version was built to solve limitations discovered in previous versions through structured experimentation, testing, and iterative improvement.
+Every version was developed to solve limitations discovered in previous iterations through structured experimentation, continuous testing, and rapid design improvements.
 
-The implementation remains private because it represents active independent engineering work.
+Rather than optimizing for academic exercises, the project emphasizes practical engineering, operator usability, modular architecture, and fast decision support.
 
-The screenshots below demonstrate the architecture and user experience without exposing proprietary implementation details.
+The underlying implementation remains private because it represents active independent engineering work.
 
----
-
-## Screenshots
-
-### Dashboard Overview
-
-*(Insert Screenshot)*
+The screenshots below demonstrate the functionality and engineering approach without exposing proprietary source code.
 
 ---
 
-### Analytics Engine
+# Dashboard Overview
 
-*(Insert Screenshot)*
+Main operational dashboard integrating market conditions, geopolitical context, and adaptive trade monitoring.
 
----
-
-### Regime Detection
-
-*(Insert Screenshot)*
+![](images/dashboard-overview.png)
 
 ---
 
-### Multi-Market Monitoring
+# Regime Detection Engine
 
-*(Insert Screenshot)*
+Composite scoring engine dynamically adjusting weighting across multiple market inputs.
+
+![](images/regime-engine.png)
 
 ---
 
-## Status
+# Brent Correlation Analysis
+
+Visualization modeling the relationship between Brent crude price movement and Petrobras valuation.
+
+![](images/brent-correlation.png)
+
+---
+
+# Multi-Market Reference
+
+Cross-market monitoring integrating NYSE, B3, and European listings alongside commodity relationships.
+
+![](images/multi-market.png)
+
+---
+
+# Oil Reference Module
+
+Reference interface mapping commodity tickers across major trading platforms.
+
+![](images/oil-reference.png)
+
+---
+
+# Current Status
 
 Active Development
 
-New capabilities continue to be added as the platform evolves.
+New analytical capabilities, visualization improvements, and decision-support features continue to be added as the platform evolves.
