@@ -72,9 +72,10 @@ The screenshots below demonstrate the functionality and engineering approach wit
 
 # Dashboard Overview
 
+
 Main operational dashboard integrating market conditions, geopolitical context, and adaptive trade monitoring.
 
-![](images/dashboard-overview.png)
+![](dashboard-overview.png)
 
 ---
 
@@ -82,7 +83,7 @@ Main operational dashboard integrating market conditions, geopolitical context, 
 
 Composite scoring engine dynamically adjusting weighting across multiple market inputs.
 
-![](images/regime-engine.png)
+![](regime-engine.png)
 
 ---
 
@@ -90,7 +91,7 @@ Composite scoring engine dynamically adjusting weighting across multiple market 
 
 Visualization modeling the relationship between Brent crude price movement and Petrobras valuation.
 
-![](images/brent-correlation.png)
+![](brent-correlation.png)
 
 ---
 
@@ -98,7 +99,7 @@ Visualization modeling the relationship between Brent crude price movement and P
 
 Cross-market monitoring integrating NYSE, B3, and European listings alongside commodity relationships.
 
-![](images/multi-market.png)
+![](multi-market.png)
 
 ---
 
@@ -106,7 +107,7 @@ Cross-market monitoring integrating NYSE, B3, and European listings alongside co
 
 Reference interface mapping commodity tickers across major trading platforms.
 
-![](images/oil-reference.png)
+![](oil-reference.png)
 
 ---
 
