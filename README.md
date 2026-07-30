@@ -1,5 +1,9 @@
 # VEDA Decision Support Platform
 
+Independent software engineering project demonstrating decision-support architecture, multi-source data integration, predictive analytics, and operator-focused interface design.
+
+> Source code is intentionally private while the project remains under active development. This repository showcases functionality and engineering approach through documentation and application screenshots.
+
 ## Overview
 
 VEDA Trade Desk is an independent engineering project that I designed and developed to explore complex decision-support systems, predictive analytics, and multi-source data integration.
