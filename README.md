@@ -1,4 +1,4 @@
-# VEDA Decision Support Platform
+# Decision Support Platform
 
 Independent software engineering project demonstrating decision-support architecture, multi-source data integration, predictive analytics, and operator-focused interface design.
 
@@ -6,11 +6,11 @@ Independent software engineering project demonstrating decision-support architec
 
 ## Overview
 
-VEDA Trade Desk is an independent engineering project that I designed and developed to explore complex decision-support systems, predictive analytics, and multi-source data integration.
+This is an independent engineering project designed and developed to explore complex decision-support systems, predictive analytics, and multi-source data integration.
 
-Rather than functioning as a traditional trading application, the platform serves as a real-time analytics environment that combines multiple global data sources into a unified operational dashboard.
+Rather than functioning as a traditional single-purpose application, the platform serves as a real-time analytics environment that combines multiple independent data streams into a unified operational dashboard.
 
-The platform combines financial market data, macroeconomic indicators, geopolitical events, and custom scoring models into a single operator interface designed to support rapid decision making under uncertainty.
+The platform combines live market data, macroeconomic indicators, event-driven signals, and custom scoring models into a single operator interface designed to support rapid decision making under uncertainty.
 
 The project was built through continuous iteration, experimentation, and validation, evolving from a simple dashboard into a modular software platform emphasizing systems engineering, visualization, and operator-focused design.
 
@@ -20,9 +20,9 @@ The project was built through continuous iteration, experimentation, and validat
 
 - Build a modular decision-support platform
 - Design an operator-first interface
-- Integrate multiple independent market signals
+- Integrate multiple independent data signals
 - Develop adaptive scoring algorithms
-- Model changing market regimes
+- Model changing conditions in real time
 - Improve decision making through visualization
 - Practice rapid software iteration
 - Validate engineering assumptions through testing
@@ -31,11 +31,11 @@ The project was built through continuous iteration, experimentation, and validat
 
 # Platform Features
 
-- Multi-market monitoring
-- Cross-market correlation engine
-- Brent / WTI analytics
-- Petrobras (PBR) monitoring
-- Geopolitical event tracking
+- Multi-source monitoring
+- Cross-source correlation engine
+- Reference-asset analytics
+- Live signal monitoring
+- Event tracking
 - Adaptive regime detection
 - Weighted scoring engine
 - Interactive dashboards
@@ -76,8 +76,7 @@ The screenshots below demonstrate the functionality and engineering approach wit
 
 # Dashboard Overview
 
-
-Main operational dashboard integrating market conditions, geopolitical context, and adaptive trade monitoring.
+Main operational dashboard integrating live conditions, contextual signals, and adaptive monitoring.
 
 ![](dashboard-overview.png.png)
 
@@ -85,39 +84,42 @@ Main operational dashboard integrating market conditions, geopolitical context, 
 
 # Regime Detection Engine
 
-Composite scoring engine dynamically adjusting weighting across multiple market inputs.
+Composite scoring engine dynamically adjusting weighting across multiple independent inputs.
 
 ![](regime-engine.png.png)
 
 ---
 
-# Brent Correlation Analysis
+# Correlation Analysis
 
-Visualization modeling the relationship between Brent crude price movement and Petrobras valuation.
+Visualization modeling the relationship between a reference signal and a tracked asset.
 
 ![](brent-correlation.png.png)
 
 ---
 
-# Multi-Market Reference
+# Multi-Source Reference
 
-Cross-market monitoring integrating NYSE, B3, and European listings alongside commodity relationships.
+Cross-source monitoring integrating several independent live feeds alongside derived relationships.
 
 ![](multi-market.png.png)
 
 ---
 
-# Oil Reference Module
+# Reference Module
 
-Reference interface mapping commodity tickers across major trading platforms.
+Reference interface mapping tracked signals across multiple platforms.
 
 ![](oil-reference.png.png)
 
 ---
 
-# DEMO - PD
-A simplified, portfolio-safe code demo of this architecture is available at 
+# Live Demo
+
+A simplified, portfolio-safe code demo of this architecture is available at
 github.com/PVEDA/DYNAMIC-DECISION-DEMO
+
+---
 
 # Current Status
 
