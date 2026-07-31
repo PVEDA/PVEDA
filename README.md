@@ -102,7 +102,7 @@ Visualization modeling the relationship between a reference signal and a tracked
 
 Cross-source monitoring integrating several independent live feeds alongside derived relationships.
 
-![](multi-market.png)
+![](multi-source.png)
 
 ---
 
