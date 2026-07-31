@@ -78,7 +78,7 @@ The screenshots below demonstrate the functionality and engineering approach wit
 
 Main operational dashboard integrating live conditions, contextual signals, and adaptive monitoring.
 
-![](dashboard-overview.png.png)
+![](overview.png)
 
 ---
 
@@ -86,7 +86,7 @@ Main operational dashboard integrating live conditions, contextual signals, and 
 
 Composite scoring engine dynamically adjusting weighting across multiple independent inputs.
 
-![](regime-engine.png.png)
+![](regime-engine.png)
 
 ---
 
@@ -102,7 +102,7 @@ Visualization modeling the relationship between a reference signal and a tracked
 
 Cross-source monitoring integrating several independent live feeds alongside derived relationships.
 
-![](multi-market.png.png)
+![](multi-market.png)
 
 ---
 
@@ -110,7 +110,7 @@ Cross-source monitoring integrating several independent live feeds alongside der
 
 Reference interface mapping tracked signals across multiple platforms.
 
-![](oil-reference.png.png)
+![](reference.png)
 
 ---
 
