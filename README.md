@@ -115,6 +115,10 @@ Reference interface mapping commodity tickers across major trading platforms.
 
 ---
 
+# DEMO - PD
+A simplified, portfolio-safe code demo of this architecture is available at 
+github.com/PVEDA/DYNAMIC-DECISION-DEMO
+
 # Current Status
 
 Active Development
